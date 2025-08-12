@@ -1,13 +1,13 @@
-body{
-    background-color: rgb(100, 33, 131);
-    color: rgb(245, 220, 240);
-     font-family: "Chakra Petch", sans-serif;
-     margin: 0px;
+body {
+background-color: rgb(100, 33, 131);
+color: rgb(245, 220, 240);
+font-family: "Playwrite AU QLD", cursive;
+margin: 0px;
 }
 
-header{
-    border-bottom: solid 2px rgb(, rgb(18, 25, 114), rgb(119, 0, 255);
-    padding: 20px;
-    font-size: 32px;
-    color: rgb(107, 43, 226);
-} 
+header {
+border-bottom: solid 2px rgb(, rgb(18, 25, 114), rgb(119, 0, 255);
+padding: 20px;
+font-size: 32px;
+color: rgb(107, 43, 226);
+}
