@@ -1,16 +1,25 @@
-body {
-background-color: rgb(100, 33, 131);
-color: rgb(245, 220, 240);
-font-family: "Playwrite AU QLD", cursive;
+body{
+background-color: rgb(12, 12, 12);
+color: rgb(255, 255, 255);
+font-family: "Chakra Petch", sans-serif;
 margin: 0px;
 }
-
-header {
-border-bottom: solid 2px rgb(, rgb(18, 25, 114), rgb(119, 0, 255);
-padding: 20px;
+header{
+border-bottom: solid 2px rgb(248, 246, 246);
+padding: 20px ;
 font-size: 32px;
-color: rgb(107, 43, 226);
+color: rgb(241, 7, 7);
 }
 img{
-    height: 200px;
+height: 200px;
+}
+.categoria-videos{
+display: flex;
+overflow-x: auto;
+gap: 10px;
+}
+
+.categoria{
+padding-left: 20px;
+padding-right: 20px;
 }
